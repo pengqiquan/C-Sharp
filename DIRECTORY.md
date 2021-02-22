@@ -218,50 +218,54 @@
 
 ## Datastructures.Tests
   * [Aatreetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/AATreeTests.cs)
-  * [Arraybasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/ArrayBasedQueueTests.cs)
-  * [Arraybasedstacktests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/ArrayBasedStackTests.cs)
   * [Binaryheaptests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/BinaryHeapTests.cs)
   * [Binarysearchtreetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/BinarySearchTreeTests.cs)
   * [Bitarraytests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/BitArrayTests.cs)
-  * [Doublylinkedlisttests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/DoublyLinkedListTests.cs)
-  * [Linkedlisttests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/LinkedListTests.cs)
-  * [Listbasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/ListBasedQueueTests.cs)
-  * [Listbasedstacktests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/ListBasedStackTests.cs)
+  * Linkedlist
+    * [Doublylinkedlisttests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/LinkedList/DoublyLinkedListTests.cs)
+    * [Linkedlisttests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/LinkedList/LinkedListTests.cs)
   * [Minmaxheaptests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/MinMaxHeapTests.cs)
+  * Queue
+    * [Arraybasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/Queue/ArrayBasedQueueTests.cs)
+    * [Listbasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/Queue/ListBasedQueueTests.cs)
+    * [Stackbasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/Queue/StackBasedQueueTests.cs)
   * Segmenttrees
     * [Segmenttreeapplytests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/SegmentTrees/SegmentTreeApplyTests.cs)
     * [Segmenttreetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/SegmentTrees/SegmentTreeTests.cs)
     * [Segmenttreeupdatetest](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/SegmentTrees/SegmentTreeUpdateTest.cs)
-  * [Stackbasedqueuetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/StackBasedQueueTests.cs)
+  * Stack
+    * [Arraybasedstacktests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/Stack/ArrayBasedStackTests.cs)
+    * [Listbasedstacktests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/Stack/ListBasedStackTests.cs)
   * [Timelinetests](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures.Tests/TimelineTests.cs)
 
 ## Datastructures
   * Aatree
     * [Aatree](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/AATree/AATree.cs)
     * [Aatreenode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/AATree/AATreeNode.cs)
-  * [Arraybasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/ArrayBasedQueue.cs)
-  * Arraybasedstack
-    * [Arraybasedstack](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/ArrayBasedStack/ArrayBasedStack.cs)
   * [Binaryheap](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/BinaryHeap.cs)
   * Binarysearchtree
     * [Binarysearchtree](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/BinarySearchTree/BinarySearchTree.cs)
     * [Binarysearchtreenode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/BinarySearchTree/BinarySearchTreeNode.cs)
   * [Bitarray](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/BitArray.cs)
-  * Doublylinkedlist
-    * [Doublylinkedlist](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/DoublyLinkedList/DoublyLinkedList.cs)
-    * [Doublylinkedlistnode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/DoublyLinkedList/DoublyLinkedListNode.cs)
-  * [Listbasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/ListBasedQueue.cs)
-  * Listbasedstack
-    * [Listbasedstack](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/ListBasedStack/ListBasedStack.cs)
+  * Linkedlist
+    * Doublylinkedlist
+      * [Doublylinkedlist](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/LinkedList/DoublyLinkedList/DoublyLinkedList.cs)
+      * [Doublylinkedlistnode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/LinkedList/DoublyLinkedList/DoublyLinkedListNode.cs)
+    * Singlylinkedlist
+      * [Singlylinkedlist](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/LinkedList/SinglyLinkedList/SinglyLinkedList.cs)
+      * [Singlylinkedlistnode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/LinkedList/SinglyLinkedList/SinglyLinkedListNode.cs)
   * [Minmaxheap](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/MinMaxHeap.cs)
+  * Queue
+    * [Arraybasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Queue/ArrayBasedQueue.cs)
+    * [Listbasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Queue/ListBasedQueue.cs)
+    * [Stackbasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Queue/StackBasedQueue.cs)
   * Segmenttrees
     * [Segmenttree](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/SegmentTrees/SegmentTree.cs)
     * [Segmenttreeapply](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/SegmentTrees/SegmentTreeApply.cs)
     * [Segmenttreeupdate](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/SegmentTrees/SegmentTreeUpdate.cs)
-  * Singlylinkedlist
-    * [Singlylinkedlist](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/SinglyLinkedList/SinglyLinkedList.cs)
-    * [Singlylinkedlistnode](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/SinglyLinkedList/SinglyLinkedListNode.cs)
-  * [Stackbasedqueue](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/StackBasedQueue.cs)
+  * Stack
+    * [Arraybasedstack](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Stack/ArrayBasedStack.cs)
+    * [Listbasedstack](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Stack/ListBasedStack.cs)
   * [Timeline](https://github.com/TheAlgorithms/C-Sharp/blob/master/DataStructures/Timeline.cs)
 
 ## Utilities.Tests
